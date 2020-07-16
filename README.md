@@ -25,5 +25,5 @@ The initial scope of the project in SOFTWARE ENGINEERING II course of 2019-PAO I
 -	Web – Frontend: https://github.com/Bernix01/open-neighborhood 
 -	Web - Backend: https://github.com/Bernix01/open-neighborhood-backend 
 -	Security Staff Mobile App: https://github.com/Bernix01/open-neighborhood-app-security 
--	Resident Mobile App: https://github.com/Bernix01/open-neighborhood-app-security 
+-	Resident Mobile App: https://github.com/Bernix01/open-neighborhood-app-resident
 
