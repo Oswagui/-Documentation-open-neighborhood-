@@ -1,0 +1,48 @@
+[7/20/20, 07:29:42] Pedro Gavilanes Alameda Del Rio: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[7/20/20, 07:29:42] Karen Bermúdez: Buenos días
+[7/20/20, 07:29:55] Karen Bermúdez: Podría enviarme porfavor la carta de aceptación firmada por correo ?
+[7/20/20, 07:44:15] Pedro Gavilanes Alameda Del Rio: Buen día claro q si
+[7/20/20, 07:44:33] Pedro Gavilanes Alameda Del Rio: Deme unas horas, a las 10 am escríbame xfavor
+[7/20/20, 07:44:44] Karen Bermúdez: Esta bien
+[7/20/20, 07:44:46] Karen Bermúdez: Muchas gracias
+[7/20/20, 12:44:28] Karen Bermúdez: Hola no se olvide porfavor
+[7/20/20, 12:44:36] Karen Bermúdez: Recién le llego el mensaje :(
+[7/20/20, 12:45:54] Pedro Gavilanes Alameda Del Rio: Buen ahorita lo. Imprimo antes de ponerme a hacer otros temas
+[7/20/20, 12:52:17] Karen Bermúdez: Muchas gracias
+[7/20/20, 12:52:37] Pedro Gavilanes Alameda Del Rio: Listo revise su correo xdsvof
+[7/29/20, 19:18:40] Karen Bermúdez: Hola
+[7/29/20, 19:18:42] Karen Bermúdez: Buenas
+[7/29/20, 19:18:46] Karen Bermúdez: El servidor es Windows server 2002?
+[7/29/20, 19:19:25] Pedro Gavilanes Alameda Del Rio: Jejeje creo q 2003
+[7/29/20, 19:19:32] Pedro Gavilanes Alameda Del Rio: No se si existe la 2002
+[8/27/20, 07:47:19] Karen Bermúdez: Buenos días, le comento que se nos ha dificultado el despliegue con el servidor que tienen, hay algún problema si se lo despliega utilizando heroku o firebase
+[8/27/20, 07:47:54] Karen Bermúdez: El lunes ya tendríamos desplegado para la página web del administrador: registro de residentes y personal de seguridad, manejo de alícuotas
+[8/30/20, 12:20:25] Karen Bermúdez: Buenos días podría decirme si le parece bien o que recomendaciones nos puede dar?
+[8/30/20, 12:28:08] Pedro Gavilanes Alameda Del Rio: Buen día
+[8/30/20, 12:28:59] Pedro Gavilanes Alameda Del Rio: Me. Gustaría q sea en sqlserver pero si no pueden ya no queda de otra
+[9/8/20, 21:52:03] Karen Bermúdez: Buenas noches le comento que el proyecto ya está desplegado así es como se verá
+‎[9/8/20, 21:52:19] Karen Bermúdez: ‎<attached: 00000024-PHOTO-2020-09-08-21-52-19.jpg>
+‎[9/8/20, 21:52:20] Karen Bermúdez: ‎<attached: 00000025-PHOTO-2020-09-08-21-52-19.jpg>
+‎[9/8/20, 21:52:20] Karen Bermúdez: ‎<attached: 00000026-PHOTO-2020-09-08-21-52-20.jpg>
+‎[9/8/20, 21:52:21] Karen Bermúdez: ‎<attached: 00000027-PHOTO-2020-09-08-21-52-20.jpg>
+‎[9/8/20, 21:52:21] Karen Bermúdez: ‎<attached: 00000028-PHOTO-2020-09-08-21-52-21.jpg>
+‎[9/8/20, 21:52:22] Karen Bermúdez: ‎<attached: 00000029-PHOTO-2020-09-08-21-52-21.jpg>
+‎[9/8/20, 21:52:22] Karen Bermúdez: ‎<attached: 00000030-PHOTO-2020-09-08-21-52-22.jpg>
+[9/8/20, 21:52:51] Karen Bermúdez: Ahora le envío un correo especificándole para la firma final
+[9/8/20, 21:57:40] Pedro Gavilanes Alameda Del Rio: Excelente se ve bien
+[9/8/20, 21:58:34] Pedro Gavilanes Alameda Del Rio: Me avisa q equipo debo comprar para tomar fotos y todo lo q se necesite para su proyecto
+[9/8/20, 22:04:51] Karen Bermúdez: De acuerdo, ya me envíe el correo
+[9/8/20, 22:04:54] Karen Bermúdez: Para la firma
+[9/8/20, 22:05:36] Pedro Gavilanes Alameda Del Rio: Ok esta bien
+[9/8/20, 22:06:11] Karen Bermúdez: Le*
+[9/8/20, 22:07:09] Pedro Gavilanes Alameda Del Rio: Listo mañana le envío firmado y escaneado
+[9/8/20, 22:08:20] Karen Bermúdez: Podria ayudarme hoy porfavor
+[9/8/20, 22:09:22] Pedro Gavilanes Alameda Del Rio: No tengo impresora ni escaner aqui
+[9/8/20, 22:09:35] Pedro Gavilanes Alameda Del Rio: Puedo respónderle el correo
+[9/8/20, 22:09:51] Karen Bermúdez: Si porfavor
+[9/8/20, 22:11:09] Karen Bermúdez: Indicando esto
+[9/8/20, 22:12:07] Pedro Gavilanes Alameda Del Rio: Ohhh jejeje ya respondí
+[9/8/20, 22:12:40] Pedro Gavilanes Alameda Del Rio: Y no es factible respónderle mañana para q vaya con la firma
+[9/8/20, 22:13:24] Karen Bermúdez: No hay problema, puede responder
+[9/8/20, 22:13:29] Karen Bermúdez: De nuevo 😅
+[9/8/20, 22:13:43] Pedro Gavilanes Alameda Del Rio: Ok esta bien
